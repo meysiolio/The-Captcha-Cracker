@@ -17,7 +17,7 @@ Here, take a look at some of the captcha images on the form. As you can see, the
 
 <img src="4.jpg"/>
 
-You are provided a set of twenty-five captchas, such that, each of the characters A-Z and 0-9 occur at least once in one of the Captchas' text. From these captchas, you can identify texture, nature of the font, spacing of the font, morphological characteristics of the letters and numerals, etc. Download this sample set from here for the purpose of creating an offline model for this task.  
+You are provided a set of twenty-five captchas, such that, each of the characters A-Z and 0-9 occur at least once in one of the Captchas' text. From these captchas, you can identify texture, nature of the font, spacing of the font, morphological characteristics of the letters and numerals, etc. Download this sample set [from here](https://github.com/meysiolio/The-Captcha-Cracker/tree/master/sampleCaptchas) for the purpose of creating an offline model for this task.  
 
 **Given a set of unseen captchas on the same web form, your task is to identify the text on each of the captchas.**  
 
@@ -70,4 +70,4 @@ J3GM4
 
 You are provided a set of twenty-five captchas, such that each of the characters A-Z and 0-9 occur at least once in one of the Captchas' text. From these captchas, you can identify texture, nature of the font, spacing of the font, morphological characteristics of the letters and numerals, etc.  
 
-Download this sample set [from here](http://hr-testcases.s3.amazonaws.com/2587/assets/sampleCaptchas.zip) for the purpose of creating an offline model for this task.  
+Download this sample set [from here](https://github.com/meysiolio/The-Captcha-Cracker/tree/master/sampleCaptchas) for the purpose of creating an offline model for this task.  
