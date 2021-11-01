@@ -70,4 +70,4 @@ J3GM4
 
 You are provided a set of twenty-five captchas, such that each of the characters A-Z and 0-9 occur at least once in one of the Captchas' text. From these captchas, you can identify texture, nature of the font, spacing of the font, morphological characteristics of the letters and numerals, etc.  
 
-Download this sample set from here for the purpose of creating an offline model for this task.  
+Download this sample set [from here](http://hr-testcases.s3.amazonaws.com/2587/assets/sampleCaptchas.zip) for the purpose of creating an offline model for this task.  
